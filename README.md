@@ -1,4 +1,4 @@
-# Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution---Team-1
+# Real-Time-EV-Fleet-Monitoring-and-Predictive-Analytics-Solution-Team-1
 ## Project Overview
 The Real-Time EV Fleet Monitoring and Predictive Analytics Solution will enable fleet managers to monitor their electric vehicles' performance and health in real-time. This includes tracking battery status, charging levels and optimizing fleet operations. This reduces operational costs and ensures vehicles are maintained proactively, enhancing overall fleet efficiency. The system will offer comprehensive cost and energy consumption analysis, along with customizable report generation.
 
